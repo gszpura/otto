@@ -10,8 +10,8 @@ node types are concerned) and may change in the future.
 package ast
 
 import (
-	"github.com/dop251/otto/file"
-	"github.com/dop251/otto/token"
+	"github.com/gszpura/otto/file"
+	"github.com/gszpura/otto/token"
 )
 
 // All nodes implement the Node interface.

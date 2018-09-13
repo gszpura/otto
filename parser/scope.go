@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"github.com/dop251/otto/ast"
+	"github.com/gszpura/otto/ast"
 )
 
 type _scope struct {

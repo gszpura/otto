@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/dop251/otto/token"
+	"github.com/gszpura/otto/token"
 )
 
 func (self *_runtime) cmpl_evaluate_nodeStatement(node _nodeStatement) Value {

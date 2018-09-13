@@ -5,7 +5,7 @@ import (
 	"math"
 	"runtime"
 
-	"github.com/dop251/otto/token"
+	"github.com/gszpura/otto/token"
 )
 
 func (self *_runtime) cmpl_evaluate_nodeExpression(node _nodeExpression) Value {

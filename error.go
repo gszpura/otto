@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/dop251/otto/file"
+	"github.com/gszpura/otto/file"
 )
 
 type _exception struct {
